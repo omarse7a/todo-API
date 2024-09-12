@@ -1,6 +1,6 @@
 # todo-list-django
 
-A simple and efficient API for basic CRUD operations on a to-do list, built with Django REST Framework. It includes a responsive frontend using Bootstrap and CSS, with API calls made via vanilla JavaScript.
+A simple and efficient API for basic CRUD operations on a to-do list, built with Django REST Framework. It includes a responsive frontend using Bootstrap and CSS, with API calls made via vanilla JavaScript. This project was developed following Dennis Ivy's [tutorial](https://www.youtube.com/playlist?list=PL-51WBLyFTg3k9JKxT7ExP8Xvt4GeG5zc)"
 
 ## Features
 - Task Management: Easily create, view, update, and delete tasks.
